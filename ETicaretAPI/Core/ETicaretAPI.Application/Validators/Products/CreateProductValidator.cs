@@ -1,6 +1,5 @@
-﻿namespace ETicaretAPI.Application.Validators.Products
+﻿namespace ETicaretAPI.Application.Validators.Products;
+
+public class CreateProductValidator
 {
-    public class CreateProductValidator
-    {
-    }
 }
